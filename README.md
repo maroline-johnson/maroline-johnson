@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @maroline-johnson
+- 👀 I’m interested in the software development lifecycle. How does code move from a brain to a screen? 
+- 🌱 I’m currently learning how to code! I've never done it before, and I'm using Codecademy to teach me. 
+- 💞️ I’m looking to collaborate on tips and tricks. Do you have any advice for a beginner? 
+- 📫 Feel free to email me at maroline.johnson@gmail.com
