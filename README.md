@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @maroline-johnson
-- 👀 I’m interested in the software development lifecycle. How does code move from a brain to a screen? 
-- 🌱 I’m currently learning how to code! I've never done it before, and I'm using Codecademy to teach me. 
-- 💞️ I’m looking to collaborate on tips and tricks. Do you have any advice for a beginner? 
+- 👋 Hi, I’m @maroline-johnson, and I live in Chicago, IL. 
+- 👀 I’m interested in the software development lifecycle. How does code move from a brain to a browser? 
+- 🌱 I’m always learning more about how to code! I only started in 2023, and I use Codecademy and Simplilearn for ongoing education. 
+- 💞️ I’m passionate about DevOps because optimizing processes can drastically improve the developer experience! What do you wish could be better about yours? 
 - 📫 Feel free to email me at maroline.johnson@gmail.com
